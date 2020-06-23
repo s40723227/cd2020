@@ -452,8 +452,6 @@ vertical: body pane on the botton</t>
 &lt;hr color="#ff8000"&gt;
 * &lt;font size="6"&gt;四輪車的基本外型設置與以鍵盤控制四輪車
 &lt;hr color="#ff8000"&gt;
-* &lt;font size="6"&gt;重新創建python3.8.2隨身系統
-&lt;hr color="#ff8000"&gt;
 * &lt;font size="6"&gt;Python remote api 環境配置
 &lt;hr color="#ff8000"&gt;
 * &lt;font size="6"&gt;解決python 3.8.2版本leo閃退問題
@@ -513,7 +511,8 @@ vertical: body pane on the botton</t>
 * &lt;font size="6"&gt;Ubuntu對外連線設定
 &lt;hr color="#ff8000"&gt;
 * &lt;font size="6"&gt;統整並完成Assignment3報告內容
-&lt;hr color="#ff8000"&gt;* &lt;font size="6"&gt;mini project抽點
+&lt;hr color="#ff8000"&gt;
+* &lt;font size="6"&gt;mini project抽點
 &lt;hr color="#ff8000"&gt;
 
 </t>
