@@ -8,7 +8,7 @@ Title: About
 
 課程網誌: <a href="https://s40723227.github.io/cd2020/blog/index.html">https://s40723227.github.io/cd2020/blog/index.html</a>
 
-期中報告影片:<a href="https://www.youtube.com/watch?v=B76TzMgWv-4">https://www.youtube.com/watch?v=B76TzMgWv-4</a>
+期末報告影片:<a href="https://youtu.be/z_o-Z4Y0kKA">https://youtu.be/z_o-Z4Y0kKA</a>
 
 分組倉儲: <a href="https://github.com/s40723227/cd2020bg3">https://github.com/s40723227/cd2020bg3</a>
 

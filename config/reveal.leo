@@ -54,6 +54,9 @@
 <v t="leo.20200621020335.1"><vh>Final project</vh>
 <v t="leo.20200621020335.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200623153601.1"><vh>Final project</vh>
+<v t="leo.20200623153601.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20200621021110.1"><vh>EBOOK</vh>
 <v t="leo.20200621021110.2"><vh>封面投影片內容</vh></v>
 </v>
@@ -705,6 +708,21 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200621021930.2">## [MechaFutureAndChallenges](https://s40723227.github.io/cd2020/content/MechaFutureAndChallenges.html)
 
 &lt;iframe src="https://drive.google.com/file/d/19DRKT5qFuAZg9wAsXcTMf_szifX0RWWP/preview" width="640" height="480"&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200623153601.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623153601.2">## [期末報告影片](https://youtu.be/z_o-Z4Y0kKA)
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/z_o-Z4Y0kKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
